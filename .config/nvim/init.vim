@@ -8,6 +8,7 @@ set tabstop=4
 set hidden
 set signcolumn=yes:2
 set number
+set relativenumber
 set termguicolors
 set undofile
 set spell
